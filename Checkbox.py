@@ -1,4 +1,4 @@
-#script for demoqa in element section to click checkboxes
+#script for demoqa in element section to click checkboxes available in the page
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
